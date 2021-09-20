@@ -90,6 +90,14 @@ $ make init
  <p>Este comando prepara os arquivos de configuração e inicia o container</p>
 
 
+ <p> O container do projeto do front-end estara sendo executado na porta 80 e o back-end estara sendo executado na porta 8080 </p>  
+
+ <a href="http://localhost" target="_blank"> 
+  http://localhost
+ </a> 
+
+
+
 
 
 ## License
