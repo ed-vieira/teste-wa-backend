@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "developer",
+    "password": "developer",
+    "database": "app_db",
+    "host": "postgres",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "developer",
+    "password": "developer",
+    "database": "app_db",
+    "host": "postgres",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "developer",
+    "password": "developer",
+    "database": "app_db",
+    "host": "postgres",
+    "dialect": "postgres"
+  }
+}
