@@ -70,11 +70,11 @@ $ make migrate-seed
 
 
 
-<p> O primeiro comando ira prepara os arquivos de configuração da maneira necessária e iniciará os processos do docker-compose os comandos podem ser vistos no arquivo Makefile na pasta do projeto.</p>
+<p> O primeiro comando ira prepara os arquivos de configuração e iniciará os processos do docker-compose, os comandos podem ser vistos no arquivo Makefile na pasta do projeto.</p>
 
 <p>O segundo ira criar e preencher a tabela com dados do Faker</p>
 
-<p>Pode ser necessário alguns segundos de diferença entre a execução os dois comandos porque o cointainer de banco de dados pode ja ter iniciado com sucesso mas ainda não estar pronto para estabelecer conexões. </p>
+<p>Pode ser necessário alguns segundos de diferença entre a execução dos dois comandos porque o cointainer de banco de dados pode ja ter iniciado com sucesso mas ainda não estar pronto para estabelecer conexões. </p>
 
 
 <a href="https://github.com/ed-vieira/teste-wa-frontend" target="_blank">
