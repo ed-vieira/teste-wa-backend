@@ -28,7 +28,7 @@ services:
       - app  
     volumes:
       - ./:/var/www
-      - ${NGINX_CONF}:/etc/nginx/conf.d/
+      - ./${NGINX_CONF}:/etc/nginx/conf.d/
     networks:
       - local_network
       - app_network
