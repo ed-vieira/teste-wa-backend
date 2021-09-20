@@ -48,6 +48,13 @@ $ git clone git@github.com:ed-vieira/teste-wa-frontend.git
 ```bash
 $ make init
 ```
+
+<p> Para executar as migrations e o seeder para criar e popular as tebelas: </p>
+
+```bash
+$ make migrate-seed
+```
+
 <p> Este comando ira prepara os arquivos de configuração da maneira necessária</p>
 <p>depois executara os comandos do docker para preparar tudo excutar a migration e o seeder</p>
 
