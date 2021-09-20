@@ -27,13 +27,13 @@
 ## Clonar o projeto (back-end)
 
 ```bash
-$ git clone ...
+$ git clone git@github.com:ed-vieira/teste-wa-backend.git
 ```
 
 ## Clonar o projeto (front-end)
 
 ```bash
-$ git clone ...
+$ git clone git@github.com:ed-vieira/teste-wa-frontend.git
 ```
 
 
